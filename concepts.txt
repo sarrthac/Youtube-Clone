@@ -1,2 +1,5 @@
 1) Create Context()
 2) <Content.Provider/>
+3) Browser Router
+4) Conditional Chaining
+5) UseLocation()
